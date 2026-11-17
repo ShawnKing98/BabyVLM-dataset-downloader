@@ -186,7 +186,7 @@ be looked up from `babyview_utterances.json` via the `video_id` field.
 ## Download DevCV toolbox data
 
 The DevCV toolbox evaluation data is in volume 1981 as six finetune folders.
-[Evaluate on this data](https://github.com/ShawnKing98/DevCV-Toolbox)
+See the [DevCV toolbox repository](https://github.com/ShawnKing98/DevCV-Toolbox) to evaluate on this data.
 
 <!-- | Folder ID | Name |
 |---|---|
