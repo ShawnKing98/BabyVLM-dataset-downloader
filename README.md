@@ -1,6 +1,6 @@
 # BabyVLM dataset downloader
 
-Downloads data from Databrary for use with BabyVLM-V2 playground.
+Download data from Databrary for use with BabyVLM-V2 playground. Please make sure you have a Databrary account and can normally access [BabyVLM-V2](https://databrary.org/volume/1981), [SAYCam](https://databrary.org/volume/564), and [BabyView](https://databrary.org/volume/1882) volumes on a web browser, before proceeding.
 
 ## Table of contents
 
